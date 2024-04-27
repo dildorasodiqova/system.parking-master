@@ -1,0 +1,23 @@
+### Get suggestion places
+GET http://localhost:8080/parking/suggestion-place?number=XWBSA695ERA070217&latitude=40.659772&longitude=72.228832
+
+
+### Go to the place
+POST http://localhost:8080/parking/add
+Content-Type: application/json
+
+{
+  "placeId": 9,
+  "cardId": 1
+}
+
+### Confirm as parked (located)
+PUT http://localhost:8080/parking/confirm/1
+
+### Mark as taken
+PUT http://localhost:8080/parking/take/1
+
+
+### Mark as canceled
+PUT http://back.uplink.uz/parking/cancel/1
+
