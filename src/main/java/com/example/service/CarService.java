@@ -19,11 +19,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-/**
- * @author 'Mukhtarov Sarvarbek' on 22.04.2024
- * @project system.parking
- * @contact @sarvargo
- */
+
 @Service
 @RequiredArgsConstructor
 @Slf4j

@@ -10,11 +10,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author 'Mukhtarov Sarvarbek' on 22.04.2024
- * @project system.parking
- * @contact @sarvargo
- */
 @Slf4j
 @RestController
 @RequestMapping("/cars")

@@ -12,12 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author Admin on 23.04.2024
- * @project system.parking
- * @package com.example.controller
- * @contact @sarvargo
- */
+
 @RestController
 @RequestMapping("/parking")
 @Slf4j

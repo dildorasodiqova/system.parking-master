@@ -5,11 +5,6 @@ import com.example.enums.PlaceAreaStatus;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * @author 'Mukhtarov Sarvarbek' on 22.04.2024
- * @project system.parking
- * @contact @sarvargo
- */
 @Getter
 @Setter
 public class PlaceAreaResDTO {

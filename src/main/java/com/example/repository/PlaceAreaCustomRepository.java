@@ -9,11 +9,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @author 'Mukhtarov Sarvarbek' on 23.04.2024
- * @project system.parking
- * @contact @sarvargo
- */
+
 @Repository
 public class PlaceAreaCustomRepository {
     @PersistenceContext

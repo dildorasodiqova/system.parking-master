@@ -5,11 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 import org.hibernate.annotations.SQLRestriction;
 
-/**
- * @author 'Mukhtarov Sarvarbek' on 22.04.2024
- * @project system.parking
- * @contact @sarvargo
- */
+
 @Entity
 @Table(name = "region")
 @Getter

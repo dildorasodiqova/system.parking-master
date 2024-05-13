@@ -9,11 +9,7 @@ import lombok.Setter;
 
 import java.time.LocalDateTime;
 
-/**
- * @author 'Mukhtarov Sarvarbek' on 23.04.2024
- * @project system.parking
- * @contact @sarvargo
- */
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter

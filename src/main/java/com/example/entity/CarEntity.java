@@ -10,11 +10,6 @@ import org.springframework.data.annotation.CreatedDate;
 
 import java.time.LocalDateTime;
 
-/**
- * @author 'Mukhtarov Sarvarbek' on 22.04.2024
- * @project system.parking
- * @contact @sarvargo
- */
 @Getter
 @Setter
 @Entity
